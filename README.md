@@ -7,3 +7,5 @@ This website includes a full flexbox website, containing concepts such as:
 - sections
 
 This brings Harrold's story to be more interesting as it was laid beautifully from the website. To access this website, please click the netlify link. Enjoy!
+
+[https://voluble-frangipane-2c0899.netlify.app/](url)
